@@ -6,14 +6,18 @@
 
 ## 💫 About Me:
 Front End Developer with 7+ years building Web3 finance platforms, AI-powered applications, and real-time gaming
-experiences using React, TypeScript, and Next.js. Delivered 40+ production apps with focus on beautiful, performant
+experiences using React, TypeScript, and Next.js across **web and mobile**. Delivered 40+ production apps with focus on beautiful, performant
 interfaces. Specialized in scalability and creating exceptional user experiences.
 
 - Architect **component systems & design systems** for long-term maintainability
-- Build **data-rich dashboards** — trading, analytics, and real-time interfaces
+- Build **responsive & mobile-first UIs** — web apps, PWAs, and cross-platform mobile experiences
+- Ship **mobile frontends** — React Native and Flutter apps with native-feeling UX
 - Optimize **performance** — SSR, RSC, code splitting, and bundle analysis
 - Ship **Web3 frontends** — wallet flows, Solana dApps, DeFi & NFT experiences
 - Collaborate across design and backend to deliver polished, accessible UI
 
 ## 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,nextjs,angular,vue,nuxtjs,svelte,threejs,redux,nodejs,express,tailwind,mui,styledcomponents,bootstrap,graphql,jest,vitest,cypress,vite,webpack,babel,figma,git,github,docker,vercel,netlify,postgres,mongodb,supabase)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,nextjs,flutter,angular,vue,nuxtjs,svelte,threejs,redux,nodejs,express,tailwind,mui,styledcomponents,bootstrap,graphql,jest,vitest,cypress,vite,webpack,babel,figma,git,github,docker,vercel,netlify,postgres,mongodb,supabase)
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
