@@ -6,14 +6,6 @@
     </a>
   </div>
 
-  <!--Languages and Tools Section-->       
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-  </picture>
-  <br />
-
   <h3 align="left">Key Focus</h3>
   <dl align="left">
     <dt>🌱 Crafting responsive, accessible, high-performance interfaces</dt>    
@@ -60,19 +52,6 @@
 • Real-time dashboards (trading, analytics)
 
 ⚽ Fun fact: Great UI is invisible — users just *feel* it.
-
-## 📊 GitHub Activities:
-
-<br>
-<p align="center">
-  <a href="https://github.com/warm-h2?tab=stars">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warm-h2&theme=gotham&layout=compact&hide_border=true" alt="@warm-h2's github-readme-stats" height="180"/>
-  </a>
-  <a href="https://github.com/hcrypto7?tab=repositories">
-    <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=warm-h2&theme=gotham&show_icons=true&count_private=true&hide_border=true" height="180" alt="@warm-h2's github-readme-stats" />
-  </a>
-  <br><br><br><br><br><br><br><br><br>
-</p>
 
 ## Strength ##
 
