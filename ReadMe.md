@@ -5,7 +5,7 @@
 </div>
 
 ## 💫 About Me:
-Front End Developer with 3+ years building Web3 finance platforms, AI-powered applications, and real-time gaming
+Front End Developer with 7+ years building Web3 finance platforms, AI-powered applications, and real-time gaming
 experiences using React, TypeScript, and Next.js. Delivered 40+ production apps with focus on beautiful, performant
 interfaces. Specialized in scalability and creating exceptional user experiences.
 
